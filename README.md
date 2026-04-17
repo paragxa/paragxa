@@ -1,5 +1,7 @@
-## Hi there 👋
+if you're here to check out portfolio: project links & pinned repos below. 
+if you're here for a vibe check: [paragxa.com](https://paragxa.com) (coming soon)
 
+- [repotour.com](https://repotour.com)
 <!--
 **paragxa/paragxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
