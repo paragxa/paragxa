@@ -1,7 +1,9 @@
 if you're here to check out portfolio: project links & pinned repos below. 
 if you're here for a vibe check: [paragxa.com](https://paragxa.com) (coming soon)
 
+**Some of my favorite work that's public is:**
 - [repotour.ai](https://repotour.ai)
+- A game I made back in freshman year of college: [Platformer game](https://paragxa.github.io/Platformer-Jump-Game/)
 <!--
 **paragxa/paragxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
