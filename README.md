@@ -1,5 +1,3 @@
-To check out portfolio: refer to project links & pinned repos below. 
-
 if you're here for a vibe check: [paragxa.com](https://paragxa.com) (coming soon)
 
 **Some of my favorite work that's public is:**
