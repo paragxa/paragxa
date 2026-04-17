@@ -1,8 +1,10 @@
-if you're here to check out portfolio: project links & pinned repos below. 
+To check out portfolio: refer to project links & pinned repos below. 
+
 if you're here for a vibe check: [paragxa.com](https://paragxa.com) (coming soon)
 
 **Some of my favorite work that's public is:**
-- [repotour.ai](https://repotour.ai)
+- [Repotour.ai](https://repotour.ai)
+- [In-text Emotion detection using NLP](https://irausch25.github.io/CS4641-Project/): The research project is based around using NLP for a more nuanced understanding of emotional context in text using deep-learning techniques on a dataset.
 - A game I made back in freshman year of college: [Platformer game](https://paragxa.github.io/Platformer-Jump-Game/)
 <!--
 **paragxa/paragxa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
