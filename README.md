@@ -1,4 +1,3 @@
-if you're here for a vibe check: [paragxa.com](https://paragxa.com) (coming soon...)
 
 **Some of my favorite work that's public is:**
 - ⚡️ [Repotour.ai](https://repotour.ai)
