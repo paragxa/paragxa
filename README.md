@@ -8,5 +8,5 @@
 **Some of my security work that's public:**
 | CVE | Project | Class | Severity | Year |
 |-----|---------|-------|----------|------|
-| [CVE-2026-65637](https://www.cve.org/CVERecord?id=CVE-2026-65637) | Apache Tomcat | HTTP/2 auth bypass (mTLS/strict-SNI) | 🔴 [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-65637) **9.8 Critical** | 2026 |
+| [CVE-2026-65637](https://www.cve.org/CVERecord?id=CVE-2026-65637) | Apache Tomcat | HTTP/2 auth bypass (mTLS/strict-SNI) | 🔴 **9.8 Critical** - [NVD](https://nvd.nist.gov/vuln/detail/CVE-2026-65637) | 2026 |
 | redacted | Spring Security - Maven | | | 2026 |
